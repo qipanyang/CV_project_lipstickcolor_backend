@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "camera-798b0",
+  "private_key_id": "c51eccc4dd96592974d84f2b41c960ae1c60668e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4RLht05T8YHZL\ndU39Usck4ePPz8sa9GLnauhjPMaoeitZKMd+jmDRiIlih6JimVasHlVRmnmzYr6O\nXDf1LZmIiSfMqfdwH+fJgehUqzb35PmB80Qf5yqjBvUAwJZux68MFpfjnoVAuQKK\nAqPBH56Z4ajPgBW/6OkevInP/0Ccda36SmVO8e4BIEi7lqpKeYzme9Fd5oVlbUew\ncyYTPUngX/n+SlmpXXba11j9XrbdMV7RHrpOqqyeupmc2g3eK7HVmG7G+8loJ89j\ntbg4nILCF3SEtAAM2kgTIa8qVTnv06LfQ29IlyqQ14yWhXQMQZa0XBnvUxmSQrYX\nlIvBzphtAgMBAAECggEAKqEPT60erwI767oQGFZhptkxZF6snKhEB0iWyXqCdPCK\nfb5u5IrYwDDHo8lAGnJh+ECuOUo09HiYIAQal/h8J/efAvyhN0nSTC5nCstvVIse\n497c+Ep49S1DWfCz/J3qk6/YZLrEFhSXD0mMC74eaXgonxSBM5wU7lzsvvdMwcUb\n+lvEV9SwK1N+ko9dvJfiM97sshLFqhVkKpl6Yin0JcrEXVmpmIKf7aBsRABd3IWf\nlL+2/yyNRXahrJaDlFbx0udANrlxz7ALlZ/mYuxKwImrCxCkVWLYRglHXcdmuTzi\n7Z1bDDo7cGloJzz9oEE2ghEoApZJGRog4Q2Gii8zgQKBgQD+2H5DGaqu0KlITWe8\nY+L0EETSa9LeduFDlCk6hhEt2ne7rVP0PCwyFW8q5MUYU3YRh8gI0693jJfRvnwR\nLmaV73XiIe1HAEbWaaUfBU1VrR8wporBPlzMi1Fpk3Xyvp2X2HYG7psPXnLFvvjI\nSzCQG6YtdtWhDQvdZj3T66VdrQKBgQC5GmOliXllGHok280K7TAvbbzOsE1iyXMu\nwN8hzNbnM/qg3wxY8hkXLX8LQ42Or1wewQFT4YfeHzb/gCV4drCzav4IrEoHKS3j\nEwMzOiuDJaDIgMSLsP9q2auonBXITNDmXpcph6l+guDFCpK595LXNn0SL/bv+5Ty\nODd6wqv9wQKBgQDzP/wM2kP0BxF+BPxecs1ffuPiIa8uTzSnR5Wu2ect6FjfGAuJ\nlaHt0E3DGIgUtx18kClcW4ohx13mgzZzQ+IBfYb86LtOSTJUWJSWrn3pqIyb6GuL\nFpaHWvfDmVA8+rr8BE5sQXZaTiGpJKbcsABTnUCaJtK0nfpUQtIDJOs8JQKBgFtq\n5BHKXpEGULTJdW/TCrwx11DBE8cZNPC/QrQfxXc0XbB72E5JawjeaGM4vr3cb4Ok\n0LILrZ2PDwuKz3a6L7S8v6+q33i/5rDCIA95yCmiONEtf2R6SvsLe9LvG3bsMTPF\nPaS+IoCfxMCr4yFDW1s8xvJni+6j8sDZ8NSJNoZBAoGAZHpCu2FX9sbDYWwrnrNS\nekBeUZOIFx9rNn3gsNxBo7Pn5pnCmE3rrH+51joONUUiH9vtkbJi6PvYrcmK0jhY\nM4gQ1ejc0vWNheZE5HFygj7BXVlTMz++XWaYkXA2qEhVANvvP/W4QxkCOyNDvFuI\noCxYAjjwoJwuw5XxwNPnmjg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "camera-798b0@appspot.gserviceaccount.com",
+  "client_id": "115697357457693959087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/camera-798b0%40appspot.gserviceaccount.com"
+}

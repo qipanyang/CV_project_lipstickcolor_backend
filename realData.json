@@ -1,0 +1,570 @@
+{
+    "brands": [{
+        "name": "YSL",
+        "series": [{
+            "name": "ROUGE VOLUPTÉ SHINE OIL-IN-STICK",
+            "lipsticks": [{
+                "color": "#D62352",
+                "id": "49",
+                "name": "49 - Rose Saint Germain",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw78d6cf2f/images/62510YSL/Swatches/62510YSL_4.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw6955a35b/images/62510YSL/3365440197480.jpg?sw=640&sh=846&sm=fit&q=70"
+            }, {
+                "color": "#DC4B41",
+                "id": "14",
+                "name": "14 - Corail Marrakech",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwdfa0898f/images/62510YSL/Swatches/62510YSL_14.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw4d3862f7/images/62510YSL/3365440237612.jpg?sw=336&sh=444&sm=fit&q=70"
+
+            }, {
+                "color": "#B22146",
+                "id": "05",
+                "name": "05 - Fuchisa Chiffon",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwed2138bc/images/62510YSL/Swatches/62510YSL_5.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw7b90bf63/images/62510YSL/3365440197558.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#DF3443",
+                "id": "12",
+                "name": "12 - Corail Dolman",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw83b7ecb3/images/62510YSL/Swatches/62510YSL_12.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw010e8c4c/images/62510YSL/3365440198043.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#E06C68",
+                "id": "15",
+                "name": "15 - Corail Spontini",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwe31ca47e/images/62510YSL/Swatches/62510YSL_15.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwef071a22/images/62510YSL/3365440237681.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#D13C4F",
+                "id": "43",
+                "name": "43 - Rose Rive Gauche",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw762de918/images/62510YSL/Swatches/62510YSL_43.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwe4ba93ef/images/62510YSL/3614271280237.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#B71D32",
+                "id": "04",
+                "name": "04 - Rouge Ballet",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw78d6cf2f/images/62510YSL/Swatches/62510YSL_4.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw6955a35b/images/62510YSL/3365440197480.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#DE2361",
+                "id": "06",
+                "name": "06 - Pink Safari",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwddcac1f2/images/62510YSL/Swatches/62510YSL_6.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw9c32c878/images/62510YSL/3365440197626.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#B05856",
+                "id": "09",
+                "name": "09 - Nude Sheer",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw25cfde75/images/62510YSL/Swatches/62510YSL_9.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw952b8b78/images/62510YSL/3365440197831.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#CD4143",
+                "id": "16",
+                "name": "16 - Orange Majorelle",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw447d21f3/images/62510YSL/Swatches/62510YSL_16.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw7d5f1cbc/images/62510YSL/3365440562141.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#C60F2F",
+                "id": "45",
+                "name": "45 - Rouge Tuxedo",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw8bd6f95d/images/62510YSL/Swatches/62510YSL_45.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw39e7d837/images/62510YSL/3614271280268.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#BB6868",
+                "id": "47",
+                "name": "47 - Beige Blouse",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwcee5cf72/images/62510YSL/Swatches/62510YSL_47.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw1194baf6/images/62510YSL/3614271280282.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#E0186B",
+                "id": "50",
+                "name": "50 - Fuchsia Stiletto",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw33bbd584/images/62510YSL/Swatches/62510YSL_50.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwd76c3314/images/62510YSL/3614271280312.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#D45E85",
+                "id": "52",
+                "name": "52 - Trapeze Pink",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw22da1b5e/images/62510YSL/Swatches/62510YSL_52.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwe8f0b2b3/images/62510YSL/3614271280343.jpg?sw=672&sh=888&sm=fit&q=70"
+            }, {
+                "color": "#C16E6F",
+                "id": "44",
+                "name": "44 - Nude Lavalliere",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw20b59015/images/62510YSL/Swatches/62510YSL_44.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw9897abfd/images/62510YSL/3614271280244.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#D1121B",
+                "id": "46",
+                "name": "46 - Orange Perfecto",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwe1b262d0/images/62510YSL/Swatches/62510YSL_46.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw50b41b6b/images/62510YSL/3614271280275.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#8E243E",
+                "id": "48",
+                "name": "48 - Smoking Plum",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw173ab74e/images/62510YSL/Swatches/62510YSL_48.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwa3326f92/images/62510YSL/3614271280299.jpg?sw=336&sh=444&sm=fit&q=70"
+            }, {
+                "color": "#EE7486",
+                "id": "51",
+                "name": "51 - Rose Saharienne",
+                "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw721edf89/images/62510YSL/Swatches62510YSL/62510YSL_51.jpg?sw=336&sh=444&sm=fit&q=70",
+                "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwdb2f6532/images/62510YSL/3614271280336.jpg?sw=336&sh=444&sm=fit&q=70"
+            }]
+        }, {
+            "name": "ROUGE PUR COUTURE LIPSTICK",
+            "lipsticks": [
+                {
+                    "id": "19",
+                    "color": "#B13C79",
+                    "name": "19 - Le Fuchsia",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw37e0f4c7/lipfinderquiz/194YSL/Light/194YSL_LIGHT19.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw01cdcd6d/RCP-Custom-Cap/3365440269330.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "13",
+                    "color": "#BB1813",
+                    "name": "13 - Le Orange",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw8d5aea9d/lipfinderquiz/194YSL/Light/194YSL_LIGHT13.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw99637b08/RCP-Custom-Cap/3365440616592.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "52",
+                    "color": "#EA4E59",
+                    "name": "52 - Rouge Rose",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwde1862b3/lipfinderquiz/194YSL/Light/194YSL_LIGHT52.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw1550b304/RCP-Custom-Cap/3365440269774.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "01",
+                    "color": "#B8122B",
+                    "name": "01 - Le Rouge",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw8ea2896a/lipfinderquiz/194YSL/Light/194YSL_LIGHT1.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwfd8340e1/RCP-Custom-Cap/3365440595477.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "17",
+                    "color": "#F75E70",
+                    "name": "17 - Rose Dahlia",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw1abb1c1b/lipfinderquiz/194YSL/Light/194YSL_LIGHT17.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw3310117e/RCP-Custom-Cap/3365440616752.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "07",
+                    "color": "#CB2276",
+                    "name": "07 - Le Fuchsia",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwc0f468b9/lipfinderquiz/194YSL/Light/194YSL_LIGHT7.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw2c01c7f1/RCP-Custom-Cap/3365440595910.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "09",
+                    "color": "#C27482",
+                    "name": "09 - Rose Stiletto",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwcfb2c62e/lipfinderquiz/194YSL/Light/194YSL_LIGHT9.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw46ac4a7a/RCP-Custom-Cap/3365440596030.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "22",
+                    "color": "#E86E9F",
+                    "name": "22 - Rose Celebration",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwaa74d446/lipfinderquiz/194YSL/Light/194YSL_LIGHT22.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw97297fd0/RCP-Custom-Cap/3365440269477.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "23",
+                    "color": "#DE6F5C",
+                    "name": "23 - Coral Poetique",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw11bd086d/lipfinderquiz/194YSL/Light/194YSL_LIGHT23.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwebee8981/RCP-Custom-Cap/3365440015814.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "26",
+                    "color": "#CC6D84",
+                    "name": "26 - Rose Libertin",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwf80aa497/lipfinderquiz/194YSL/Light/194YSL_LIGHT26.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwde0feb8d/RCP-Custom-Cap/3365440015999.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "36",
+                    "color": "#ED695D",
+                    "name": "36 - Corail Legende",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwb358c8b4/lipfinderquiz/194YSL/Light/194YSL_LIGHT36.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw089643a0/RCP-Custom-Cap/3365440072008.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "51",
+                    "color": "#FA6C55",
+                    "name": "51 - Corail Urbain",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw4d1606ca/lipfinderquiz/194YSL/Light/194YSL_LIGHT51.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwce535888/RCP-Custom-Cap/3365440332126.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "56",
+                    "color": "#D9100E",
+                    "name": "56 - Orange Indie",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw02822167/lipfinderquiz/194YSL/Light/194YSL_LIGHT56.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwdfa8d79a/RCP-Custom-Cap/3365440358379.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "59",
+                    "color": "#B96463",
+                    "name": "59 - Melon Dor",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw5f7d7dc3/lipfinderquiz/194YSL/Light/194YSL_LIGHT59.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw59756d77/RCP-Custom-Cap/3365440269842.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "208",
+                    "color": "#D60846",
+                    "name": "208 - Fuchsia Fetiche",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw0e4b4ef3/lipfinderquiz/194YSL/Light/194YSL_LIGHT208.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw01cdcd6d/RCP-Custom-Cap/3365440269330.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "27",
+                    "color": "#D24379",
+                    "name": "27 - Fuchsia Innocent",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw1181308b/lipfinderquiz/194YSL/Light/194YSL_LIGHT27.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw518a702b/RCP-Custom-Cap/3365440016057.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "50",
+                    "color": "#DC2923",
+                    "name": "50 - Rouge Neon",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwcfdd8914/lipfinderquiz/194YSL/Light/194YSL_LIGHT50.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw5844f0a8/RCP-Custom-Cap/3365440332058.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "57",
+                    "color": "#C7153D",
+                    "name": "57 - Pink Rhapsody",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwaebfcacb/lipfinderquiz/194YSL/Light/194YSL_LIGHT57.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw6e464e02/RCP-Custom-Cap/3365440358447.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "58",
+                    "color": "#B25D84",
+                    "name": "58 - Mauve Nihiliste",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw7011ab63/lipfinderquiz/194YSL/Light/194YSL_LIGHT58.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dweb50b32f/RCP-Custom-Cap/3365440358515.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "72",
+                    "color": "#9A1B2F",
+                    "name": "72 - Rouge Vinyle",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dwa45d9c1d/lipfinderquiz/194YSL/Light/194YSL_LIGHT72.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwd9ad08bc/RCP-Custom-Cap/3614271332745.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "73",
+                    "color": "#CF0410",
+                    "name": "73 - Rhythm Red",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw792fb203/lipfinderquiz/194YSL/Light/194YSL_LIGHT73.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwcae4cc25/RCP-Custom-Cap/3614271332752.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "74",
+                    "color": "#E0291B",
+                    "name": "74 - Orange Electro",
+                    "colorUri": "https://www.yslbeautyus.com/on/demandware.static/-/Sites-ysl-us-Library/default/dw22b12c24/lipfinderquiz/194YSL/Light/194YSL_LIGHT74.jpg",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw4532fcdd/RCP-Custom-Cap/3614271332769.jpg?sw=672&sh=888&sm=fit&q=70"
+                }
+            ]
+        }, {
+            "name": "VOLUPTÉ TINT-IN-BALM",
+            "lipsticks": [
+                {
+                    "id": "11",
+                    "color": "#D51768",
+                    "name": "11 - Play Me Fuchsia",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwdd32ffdd/images/2017_Products/armswatches/VTIB-SEXIER-B-YSL-SWATCH-0225.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw2c0935c9/Images2019/TintinBalm2019/3614271558749.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "3",
+                    "color": "#F18885",
+                    "name": "3 - Call Me Rose",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw905c606f/images/2017_Products/armswatches/VTIB-FLIRTIER-B-YSL-SWATCH-0257.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwec0689e7/Images2019/TintinBalm2019/3614271558688.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "8",
+                    "color": "#E52322",
+                    "name": "8 - Catch Me Orange",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwdd32ffdd/images/2017_Products/armswatches/VTIB-SEXIER-B-YSL-SWATCH-0225.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw97576902/Images2019/TintinBalm2019/3614271559036.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "4",
+                    "color": "#DA0140",
+                    "name": "4 - Desire Me Pink",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwe1d7cb17/images/2017_Products/armswatches/VTIB-HOTTER-B-YSL-SWATCH-0243.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw14a89d29/Images2019/TintinBalm2019/3614271558763.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "2",
+                    "color": "#E87593",
+                    "name": "2 - Tease Me Pink",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw905c606f/images/2017_Products/armswatches/VTIB-FLIRTIER-B-YSL-SWATCH-0257.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw43c73627/images/2017_Products/9001YSL/2/3614271558671.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "5",
+                    "color": "#630F28",
+                    "name": "5 - Dare Me Plum",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwe1d7cb17/images/2017_Products/armswatches/VTIB-HOTTER-B-YSL-SWATCH-0243.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw35884943/Images2019/TintinBalm2019/3614271558695.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "6",
+                    "color": "#CC0824",
+                    "name": "6 - Touch Me Red",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwe1d7cb17/images/2017_Products/armswatches/VTIB-HOTTER-B-YSL-SWATCH-0243.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw65d257e5/Images2019/TintinBalm2019/3614271558701.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "7",
+                    "color": "#ED6D68",
+                    "name": "7 - Flirt Me Coral",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw905c606f/images/2017_Products/armswatches/VTIB-FLIRTIER-B-YSL-SWATCH-0257.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw78dce1ee/Images2019/TintinBalm2019/3614271558718.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "9",
+                    "color": "#E73458",
+                    "name": "9 - Tempt Me Pink",
+                    "colorUri": "",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw62585fb8/Images2019/TintinBalm2019/3614271558725.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "10",
+                    "color": "#A00F30",
+                    "name": "10 - Seduce Me Pink",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwdd32ffdd/images/2017_Products/armswatches/VTIB-SEXIER-B-YSL-SWATCH-0225.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw71112364/Images2019/TintinBalm2019/3614271558732.jpg?sw=336&sh=444&sm=fit&q=70"
+                },
+                {
+                    "id": "12",
+                    "color": "#B81D3D",
+                    "name": "12 - Try Me Berry",
+                    "colorUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dwe1d7cb17/images/2017_Products/armswatches/VTIB-HOTTER-B-YSL-SWATCH-0243.jpg?sw=336&sh=444&sm=fit&q=70",
+                    "lipstickUri": "https://www.yslbeautyus.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-ysl-master-catalog/default/dw4d129163/Images2019/TintinBalm2019/3614271558756.jpg?sw=336&sh=444&sm=fit&q=70"
+                }
+            ]
+        
+        }]
+    }, {
+        "name": "CHANEL",
+        "series": [{
+            "name": "ROUGE COCO FLASH",
+            "lipsticks": [
+                {
+                    "id": "97",
+                    "color": "#D53D49",
+                    "name": "97 - Ferveur",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-coco-flash-hydrating-vibrant-shine-lip-colour-97-ferveur-0-1oz--basic-texture-174058-8810634805278.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-coco-flash-hydrating-vibrant-shine-lip-colour-97-ferveur-0-1oz--packshot-default-174058-8809249046558.jpg"
+                },
+                {
+                    "id": "54",
+                    "color": "#D1918D",
+                    "name": "54 - Boy",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-coco-flash-hydrating-vibrant-shine-lip-colour-54-boy-0-1oz--basic-texture-174088-8810619568158.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-coco-flash-hydrating-vibrant-shine-lip-colour-54-boy-0-1oz--packshot-default-174088-8809244786718.jpg"
+                },
+                {
+                    "id": "62",
+                    "color": "#E12948",
+                    "name": "62 - Fire",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-coco-flash-hydrating-vibrant-shine-lip-colour-62-fire-0-1oz--basic-texture-174062-8810619863070.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-coco-flash-hydrating-vibrant-shine-lip-colour-62-fire-0-1oz--packshot-default-174062-8809248129054.jpg"
+                },
+                {
+                    "id": "60",
+                    "color": "#BB395F",
+                    "name": "60 - Beat",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-coco-flash-hydrating-vibrant-shine-lip-colour-60-beat-0-1oz--basic-texture-174060-8810619731998.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-coco-flash-hydrating-vibrant-shine-lip-colour-60-beat-0-1oz--packshot-default-174060-8809248391198.jpg"
+                }
+            ]
+        }, {
+            "name": "ROUGE ALLURE",
+            "lipsticks": [
+                {
+                    "id": "90",
+                    "color": "#FC6E48",
+                    "name": "90 - Pimpante",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-luminous-intense-lip-colour-90-pimpante-35g.3145891609004.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-luminous-intense-lip-colour-90-pimpante-35g.3145891609004.jpg"
+                },
+                {
+                    "id": "96",
+                    "color": "#FA421C",
+                    "name": "96 - Excentrique",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-luminous-intense-lip-colour-96-excentrique-35g.3145891609608.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-luminous-intense-lip-colour-96-excentrique-35g.3145891609608.jpg"
+                },
+                {
+                    "id": "182",
+                    "color": "#E02E20",
+                    "name": "182 - Vibrante",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-182-vibrante-0-12oz--basic-texture-160182-8802147434526.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-182-vibrante-0-12oz--packshot-default-160182-8804334108702.jpg"
+                },
+                {
+                    "id": "152",
+                    "color": "#E82F2C",
+                    "name": "152 - Insaisissable",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-152-insaisissable-0-12oz--basic-texture-160152-8811190812702.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-152-insaisissable-0-12oz--packshot-default-160152-8800038191134.jpg"
+                },
+                {
+                    "id": "172",
+                    "color": "#E40021",
+                    "name": "172 - Rouge Rebelle",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-172-rouge-rebelle-0-12oz--basic-texture-160172-8809786540062.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-172-rouge-rebelle-0-12oz--packshot-default-160172-8800035438622.jpg"
+                },
+                {
+                    "id": "176",
+                    "color": "#A80D1F",
+                    "name": "176 - Independante",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-176-independante-0-12oz--basic-texture-160176-8804336304158.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-176-independante-0-12oz--packshot-default-160176-8804333912094.jpg"
+                },
+                {
+                    "id": "169",
+                    "color": "#8E2622",
+                    "name": "169 - Rouge Tentation",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-169-rouge-tentation-0-12oz--basic-texture-160169-8802157199390.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-169-rouge-tentation-0-12oz--packshot-default-160169-8804334534686.jpg"
+                },
+                {
+                    "id": "91",
+                    "color": "#E45661",
+                    "name": "91 - Seduisante",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-91-seduisante-0-12oz--basic-texture-160910-8802151039006.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-91-seduisante-0-12oz--packshot-default-160910-8804333748254.jpg"
+                },
+                {
+                    "id": "94",
+                    "color": "#FC3E6E",
+                    "name": "94 - Extatique",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-94-extatique-0-12oz--basic-texture-160940-8802145533982.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-94-extatique-0-12oz--packshot-default-160940-8800037044254.jpg"
+                },
+                {
+                    "id": "136",
+                    "color": "#EF4246",
+                    "name": "136 - Melodieuse",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-136-melodieuse-0-12oz--basic-texture-160136-8802144845854.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-136-melodieuse-0-12oz--packshot-default-160136-8800038027294.jpg"
+                },
+                {
+                    "id": "158",
+                    "color": "#B24957",
+                    "name": "158 - Virevoltante",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-158-virevoltante-0-12oz--basic-texture-160158-8804336992286.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-158-virevoltante-0-12oz--packshot-default-160158-8800032555038.jpg"
+                },
+                {
+                    "id": "93",
+                    "color": "#CD0043",
+                    "name": "93 - Exaltee",
+                    "colorUri": "https://www.chanel.com/images////q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-93-exaltee-0-12oz--basic-texture-160930-8806529663006.jpg",
+                    "lipstickUri": "https://www.chanel.com/images///w_0.38,h_0.38,c_crop/q_auto,f_jpg,fl_lossy,dpr_2/w_1920/rouge-allure-luminous-intense-lip-colour-93-exaltee-0-12oz--packshot-default-160930-8806530088990.jpg"
+                }
+            ]
+        }, {
+            "name": "ROUGE ALLURE VELVET",
+            "lipsticks": [
+                {
+                    "id": "65",
+                    "color": "#E17062",
+                    "name": "65 - L'ARISTOCRATICA",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-65-laristocratica-3_5g.3145891626506.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-65-laristocratica-3_5g.3145891626506.jpg"
+                },
+                {
+                    "id": "64",
+                    "color": "#E84632",
+                    "name": "64 - FIRST LIGHT",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-64-first-light-3_5g.3145891626407.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-64-first-light-3_5g.3145891626407.jpg"
+                },
+                {
+                    "id": "57",
+                    "color": "#BE2B24",
+                    "name": "57 - ROUGE FEU",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-57-rouge-feu-3_5g.3145891625707.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-57-rouge-feu-3_5g.3145891625707.jpg"
+                },
+                {
+                    "id": "66",
+                    "color": "#E1112A",
+                    "name": "66 - L'INDOMABILE",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-66-lindomabile-3_5g.3145891626605.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-66-lindomabile-3_5g.3145891626605.jpg"
+                },
+                {
+                    "id": "51",
+                    "color": "#9E333D",
+                    "name": "51 - LA BOULEVERSANTE",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-51-la-bouleversante-3_5g.3145891625103.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-51-la-bouleversante-3_5g.3145891625103.jpg"
+                },
+                {
+                    "id": "38",
+                    "color": "#892833",
+                    "name": "38 - LA FASCINANTE",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-38-la-fascinante-3_5g.3145891623802.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-38-la-fascinante-3_5g.3145891623802.jpg"
+                },
+                {
+                    "id": "58",
+                    "color": "#822E2E",
+                    "name": "58 - ROUGE VIE",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-58-rouge-vie-3_5g.3145891625806.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-58-rouge-vie-3_5g.3145891625806.jpg"
+                },
+                {
+                    "id": "42",
+                    "color": "#FE697F",
+                    "name": "42 - L'ECLANTANTE",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-42-leclatante-3_5g.3145891624205.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-42-leclatante-3_5g.3145891624205.jpg"
+                },
+                {
+                    "id": "43",
+                    "color": "#FA5059",
+                    "name": "43 - LA FAVORITE",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-43-la-favorite-3_5g.3145891624304.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-43-la-favorite-3_5g.3145891624304.jpg"
+                },
+                {
+                    "id": "46",
+                    "color": "#C92D38",
+                    "name": "46 - LA MALICIEUSE",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-46-la-malicieuse-3_5g.3145891624601.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-46-la-malicieuse-3_5g.3145891624601.jpg"
+                },
+                {
+                    "id": "37",
+                    "color": "#C43759",
+                    "name": "37 - L'EXUBERANTE",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-37-lexuberante-3_5g.3145891623703.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-37-lexuberante-3_5g.3145891623703.jpg"
+                },
+                {
+                    "id": "44",
+                    "color": "#F06FA5",
+                    "name": "44 - LA DIVA",
+                    "colorUri": "https://www.chanel.com/fnbv3/image/460/chanel__com_type2/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-44-la-diva-35g.3145891624403.jpg",
+                    "lipstickUri": "https://www.chanel.com/fnbv3/image/full/chanel__com_type1/skus_full/rouge-allure-velvet-luminous-matte-lip-colour-44-la-diva-35g.3145891624403.jpg"
+                }
+            ]
+        }]
+    }
+    ]
+}
